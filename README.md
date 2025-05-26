@@ -2,7 +2,7 @@
 
 > This is the starting point for a much bigger project I’m working on. It tracks breaking macro and financial news, pulls out the important parts, and analyzes their potential market impact. The system then runs that analysis through a Bayesian framework to estimate how likely it is to move the market.
 
-It can be used to support risk analysis, guide market calls, or even feed into more advanced tools like VAR models. It’s still early, but the foundation is solid and there’s a lot of room to build on.
+> It can be used to support risk analysis, guide market calls, or even feed into more advanced tools like VAR models. It’s still early, but the foundation is solid and there’s a lot of room to build on.
 
 ## 🚀 What It Does
 
