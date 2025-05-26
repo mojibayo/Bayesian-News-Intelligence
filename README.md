@@ -1,6 +1,8 @@
 # CryseraOne — Real-Time Macroeconomic News Impact Analyzer
 
-> Basically the barebones or rather say as offspring for a much larger project I'm working on. This is an elite AI powered system that monitors breaking macroeconomic and financial reports, parses the data through OpenAI, analyzes it in multiple ways and provides useful and insightful data. The data is then parsed through a Bayesian Intelligence System and we're provided with a posterior. It can be utilized in multiple ways such as, enhancing coverage and vastness of risk assessments and directional calls, the posterior value can also be fed into a var model and much more complex stuff. Still lots of room for improvement.
+> This is the starting point for a much bigger project I’m working on. It tracks breaking macro and financial news, pulls out the important parts, and analyzes their potential market impact. The system then runs that analysis through a Bayesian framework to estimate how likely it is to move the market.
+
+It can be used to support risk analysis, guide market calls, or even feed into more advanced tools like VAR models. It’s still early, but the foundation is solid and there’s a lot of room to build on.
 
 ## 🚀 What It Does
 
