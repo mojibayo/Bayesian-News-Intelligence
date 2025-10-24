@@ -89,4 +89,4 @@ This tells you:
 
 `CryseraOne provides AI-generated probabilistic insight, not investment advice.`
 
-- vythea ✷
+- moj ✷
