@@ -4,7 +4,7 @@
 
 > It can be used to support risk analysis, guide market calls, or even feed into more advanced tools like VAR models. It’s still early, but the foundation is solid and there’s a lot of room to build on.
 
-## 🚀 What It Does
+## What It Does
 
 - **Real-Time Macro News Monitoring**  
   Tracks breaking business and economic news using GNews API (or any news source you plug in).
@@ -28,7 +28,7 @@
 
 ---
 
-## 🧠 Why It's Useful
+## Why It's Useful
 
 ### For Risk Analysts & Hedge Fund Strategists
 
@@ -49,7 +49,7 @@
 
 ---
 
-## 🧩 Example Output
+## Example Output
 
 ```json
 {
@@ -69,7 +69,7 @@ This tells you:
 
 ---
 
-## 🛠 Integration Ideas
+## Integration Ideas
 
 - Feed into a VAR model as an external shock input.
 - Use CryseraOne outputs as feature signals for macro trading algos.
@@ -78,7 +78,7 @@ This tells you:
 
 ---
 
-## ⚙️ Technologies Used
+## Technologies Used
 
 - OpenAI GPT-4
 - Bayesian Inference
