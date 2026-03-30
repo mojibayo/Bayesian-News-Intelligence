@@ -1,5 +1,3 @@
-# CryseraOne
-
 **Real-Time Macroeconomic News Impact Analyzer**
 
 AI-powered system that tracks breaking macro news, extracts key signals, and quantifies their likely market impact using GPT-4 + Bayesian inference.
